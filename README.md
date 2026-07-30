@@ -1,10 +1,10 @@
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Fasyeaa/Fasyeaa/main/mainhero.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/hero.svg" />
 <br/>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Fasyeaa/Fasyeaa/main/skillstab.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/skills.svg" width="100%"/>
 </div>
 
 <div align="center">
