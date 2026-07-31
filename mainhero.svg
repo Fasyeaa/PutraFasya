@@ -80,9 +80,9 @@
 <clipPath id="clip2" class="clip2"><rect x="302" y="215" width="0" height="30"/></clipPath>
 <clipPath id="clip3" class="clip3"><rect x="231" y="215" width="0" height="30"/></clipPath>
 
-<text x="353" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">FIRST TEXT</text>
-<text x="302" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">SECOND TEXT</text>
-<text x="231" y="235" text-anchor="start" class="ach" clip-path="url(#clip3)">THIRD TEXT</text>
+<text x="353" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">PYTHON ACADEMY</text>
+<text x="302" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">MATHEMATICS ACADEMY</text>
+<text x="231" y="235" text-anchor="start" class="ach" clip-path="url(#clip3)">TRADING ANALYSIS</text>
 
 <g>
 <rect x="356" y="280" width="188" height="42" rx="10" fill="#2a1006" stroke="#f5a623" stroke-width="1.4" filter="url(#glow3)"/>
