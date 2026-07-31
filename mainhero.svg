@@ -76,9 +76,9 @@
 
 <rect class="glowbar" x="380" y="164" width="140" height="2.5" fill="#ffb347" filter="url(#glow3)"/>
 
-<clipPath id="clip1" class="clip1"><rect x="175" y="215" width="0" height="30"/></clipPath>
-<clipPath id="clip2" class="clip2"><rect x="175" y="215" width="0" height="30"/></clipPath>
-<clipPath id="clip3" class="clip3"><rect x="175" y="215" width="0" height="30"/></clipPath>
+<clipPath id="clip1" class="clip1"><rect x="215" y="215" width="0" height="30"/></clipPath>
+<clipPath id="clip2" class="clip2"><rect x="195" y="215" width="0" height="30"/></clipPath>
+<clipPath id="clip3" class="clip3"><rect x="185" y="215" width="0" height="30"/></clipPath>
 
 <text x="353" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">- PYTHON ACADEMY -</text>
 <text x="302" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">- MATHEMATICS ACADEMY -</text>
