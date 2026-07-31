@@ -78,7 +78,7 @@
 
 <clipPath id="clip1" class="clip1"><rect x="353" y="215" width="0" height="30"/></clipPath>
 <clipPath id="clip2" class="clip2"><rect x="302" y="215" width="0" height="30"/></clipPath>
-<clipPath id="clip3" class="clip3"><rect x="200" y="215" width="0" height="30"/></clipPath>
+<clipPath id="clip3" class="clip3"><rect x="185" y="215" width="0" height="30"/></clipPath>
 
 <text x="353" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">- PYTHON ACADEMY -</text>
 <text x="302" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">- MATHEMATICS ACADEMY -</text>
