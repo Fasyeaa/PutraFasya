@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/skills.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Fasyeaa/PutraFasya/main/skillstab.svg" width="100%"/>
 </div>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/header.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Fasyeaa/PutraFasya/main/header.svg" />
 <br/>
 <a href="https://www.linkedin.com/in/amir-zamani-1909a8315"><img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/linkedin.svg" height="78"/></a>
 <a href="https://t.me/Black_Hydra"><img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/telegram.svg" height="78"/></a>
